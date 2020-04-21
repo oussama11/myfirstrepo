@@ -6,3 +6,5 @@ add a line of text
 adding a second line of text
 
 adding a 3rd line of text
+
+add fourth line of text
